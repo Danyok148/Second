@@ -65,6 +65,7 @@ int main() {
         cout << "Has decimal part" << endl;
     }
 
+
     // 5
     int day;
     cout << "Enter day number (1-7): ";
